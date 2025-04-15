@@ -1,0 +1,27 @@
+.mstf_js_metadata <- function() {
+deps_metadata <- list(`mstf` = structure(list(name = "mstf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-mstf.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "mstf",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`mstf` = structure(list(name = "mstf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-mstf.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "mstf",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`mstf` = structure(list(name = "mstf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'mstf.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "mstf",
+all_files = FALSE), class = "html_dependency"),
+`mstf` = structure(list(name = "mstf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'mstf.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "mstf",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}

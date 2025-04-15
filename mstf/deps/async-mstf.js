@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmstf=self.webpackChunkmstf||[]).push([[120],{60:(e,t,n)=>{n.r(t),n.d(t,{default:()=>i});var a=n(609),s=n.n(a),r=n(120),u=n.n(r),l=function(e){var t=e.id,n=e.label,a=e.setProps,r=e.value;return s().createElement("div",{id:t},"ExampleComponent: ",n," ",s().createElement("input",{value:r,onChange:function(e){a({value:e.target.value})}}))};l.defaultProps={},l.propTypes={id:u().string,label:u().string.isRequired,value:u().string,setProps:u().func};const i=l}}]);
+//# sourceMappingURL=async-mstf.js.map

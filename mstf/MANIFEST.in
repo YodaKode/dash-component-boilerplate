@@ -1,0 +1,11 @@
+include mstf/mstf.min.js
+include mstf/mstf.min.js.map
+include mstf/async-*.js
+include mstf/async-*.js.map
+include mstf/*-shared.js
+include mstf/*-shared.js.map
+include mstf/metadata.json
+include mstf/package-info.json
+include README.md
+include LICENSE
+include package.json
